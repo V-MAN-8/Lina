@@ -1,4 +1,6 @@
+<img width="1903" height="642" alt="logo" src="https://github.com/user-attachments/assets/d4b6eda8-bb42-4936-b15d-97a33584a6aa" />
 ### Lina  your personal AI model runner that runs locally on your Mac.
+
 
 ### Download open source models in one click, all offline, on your Mac. No cloud costs, No data leaks, Just powerful AI Models .
 
